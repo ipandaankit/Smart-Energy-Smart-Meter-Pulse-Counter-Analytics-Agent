@@ -1,0 +1,9 @@
+{
+  "samples": 20,
+  "high_consumption_events": 0,
+  "low_consumption_events": 0,
+  "pulse_gap_events": 0,
+  "total_energy_kwh": 0.006,
+  "average_power_w": 1118.291,
+  "peak_power_w": 1312.224
+}
