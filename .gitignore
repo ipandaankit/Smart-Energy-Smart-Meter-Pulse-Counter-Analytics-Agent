@@ -1,0 +1,7 @@
+build/
+data/telemetry.csv
+data/events.log
+data/summary.json
+*.o
+*.a
+*.so
